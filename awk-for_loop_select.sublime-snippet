@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+for (${1:initialization}; ${2:condition}; ${3:increment/decrement}) {${4:$SELECTION}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>awkforselect</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>AWK for loop (selecting)</description>
+</snippet>
