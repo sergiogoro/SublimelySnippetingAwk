@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if (${1:condition1}) {${2:action1}} else if (${3:condition2}) {${4:action2}} else {${5:action3}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>awkifelse</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>AWK if else conditional</description>
+</snippet>
